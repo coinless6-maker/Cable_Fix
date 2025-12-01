@@ -35,7 +35,7 @@ npm run dev
 
 Install dependencies and run client:
 ```cmd
-cd client
+cd client/cablefix-client
 npm install
 npm run dev
 ```
