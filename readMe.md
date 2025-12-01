@@ -2,6 +2,8 @@
 
 Full-stack e-commerce app with React frontend and Node.js/Express backend using MySQL. Prerequisites: Node.js, npm, MySQL installed.
 
+Unzip the Cable_Fix.rar file
+
 Create database:
 ```cmd
 mysql -u root -p -e "DROP DATABASE IF EXISTS cablefix; CREATE DATABASE cablefix CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
