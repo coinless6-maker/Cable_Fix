@@ -28,7 +28,7 @@ SELECT * FROM users;
 SELECT * FROM products;
 ```
 Edit server .env file to include database password if there is any.
-This can by changing where it reads 'db_password ='
+This can be done by changing the line where it reads 'db_password ='
 
 Install dependencies and run server:
 ```cmd
